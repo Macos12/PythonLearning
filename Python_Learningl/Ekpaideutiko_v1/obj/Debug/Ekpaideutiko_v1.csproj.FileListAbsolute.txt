@@ -1,0 +1,95 @@
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\bin\Debug\Texnologia_v1.exe.config
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\bin\Debug\Texnologia_v1.exe
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\bin\Debug\Texnologia_v1.pdb
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csprojAssemblyReference.cache
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.ResolveComReference.cache
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.Admin.resources
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.Lopin_form.resources
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.Main_page.resources
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.Properties.Resources.resources
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.Signup.resources
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.GenerateResource.cache
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.CoreCompileInputs.cache
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.CopyComplete
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.exe
+C:\Users\DimitrisT\Desktop\Math_Learning\Texnologia_v1\obj\Debug\Texnologia_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.ResolveComReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.GenerateResource.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.CoreCompileInputs.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csproj.CopyComplete
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\bin\Debug\Ekpaideutiko_v1.exe.config
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\bin\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\bin\Debug\Ekpaideutiko_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.csprojAssemblyReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.Admin.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.Lopin_form.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.Main_page.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.Properties.Resources.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.Signup.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl\Texnologia_v1\obj\Debug\Ekpaideutiko_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe.config
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csprojAssemblyReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.ResolveComReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Admin.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Lopin_form.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Main_page.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Properties.Resources.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Signup.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.GenerateResource.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CoreCompileInputs.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CopyComplete
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe.config
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.pdb
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csprojAssemblyReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.ResolveComReference.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Admin.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Lopin_form.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Main_page.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Properties.Resources.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Signup.resources
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.GenerateResource.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CoreCompileInputs.cache
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CopyComplete
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.exe
+C:\Users\DimitrisT\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.pdb
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe.config
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.exe
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Ekpaideutiko_v1.pdb
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.ResolveComReference.cache
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Admin.resources
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Lopin_form.resources
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Main_page.resources
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Properties.Resources.resources
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.Signup.resources
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.csproj.CopyComplete
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.exe
+C:\Users\Nick\Desktop\Python_Learningl - Copy\Ekpaideutiko_v1\obj\Debug\Ekpaideutiko_v1.pdb
